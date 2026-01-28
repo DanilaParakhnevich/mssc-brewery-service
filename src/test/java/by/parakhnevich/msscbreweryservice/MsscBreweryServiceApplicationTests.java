@@ -1,4 +1,4 @@
-package by.parakhnevich.mssc_brewery_service;
+package by.parakhnevich.msscbreweryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

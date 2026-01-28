@@ -1,4 +1,4 @@
-package by.parakhnevich.mssc_brewery_service;
+package by.parakhnevich.msscbreweryservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
